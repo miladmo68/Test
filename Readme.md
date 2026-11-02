@@ -1,4 +1,55 @@
-# Student Management System - Developer Skill Test
+<div align="center">
+
+# 🏫 School Management System
+
+A full-stack school administration app for managing students, staff, classes, notices and leave requests, with role-based permissions.
+
+<a href="https://github.com/miladmo68/Test"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+</div>
+
+<p align="center">
+  <img src="./.github/preview.jpg" alt="School Management System screenshot" width="100%" />
+</p>
+
+---
+
+<div align="center">
+
+# 🏫 School Management System
+
+A full-stack school administration app for managing students, staff, classes, notices and leave requests, with role-based permissions.
+
+<a href="https://github.com/miladmo68/Test"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+
+</div>
+
+<p align="center">
+  <img src="./.github/preview.jpg" alt="School Management System screenshot" width="100%" />
+</p>
+
+---
+
+<div align="center">
+
+# 🏫 School Management System
+
+A full-stack school administration app for managing students, staff, classes, notices and leave requests, with role-based permissions.
+
+<a href="https://github.com/miladmo68/Test"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+
+</div>
+
+<p align="center">
+  <img src="./.github/preview.jpg" alt="School Management System screenshot" width="100%" />
+</p>
+
+---
+
+## 📄 Project Brief
 
 A comprehensive full-stack web application for managing school operations including students, staff, classes, notices, and leave management. This project serves as a skill assessment platform for **Frontend**, **Backend**, and **Blockchain** developers.
 
